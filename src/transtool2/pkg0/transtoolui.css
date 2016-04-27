@@ -1,0 +1,17 @@
+/*
+ * 
+ */
+
+.mainFxmlClass {
+}
+
+.hbox {
+    -fx-background-color: #FFFFFF;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}
+
+.TreeView {
+    -fx-background-color: #FFFFFF;
+    -fx-font: 14px Cambria;
+    }
